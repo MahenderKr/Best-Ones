@@ -1,0 +1,49 @@
+
+.body{
+	background-color: #585B5C;
+}
+	img{
+	line-height: 10px;
+	align-self: left;
+	vertical-align: middle;
+	width: 250px;
+        height: 300px;
+}
+.text{
+	margin-left: 10px;
+	display: inline-block;
+	color: white;
+	width: 500px;
+	height:200px;
+}
+h1{
+	color: white;
+}
+.Previous{
+	text-decoration: none;
+	display: inline-block;
+	background-color: #f1f1f1;
+	color: black;
+	padding: 8px 16px;
+}
+.Next{
+	text-decoration: none;
+	display: inline-block;
+	background-color: gold;
+	color: black;
+	padding: 8px 16px;
+}
+
+.line{
+	border-color: gold;
+}
+.pass{
+	margin-left: 500px;
+}
+.Previous:hover{
+	background-color: gold;
+
+}
+.Next:hover{
+background-color: #585B5C;
+}
